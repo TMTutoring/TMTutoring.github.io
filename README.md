@@ -1,6 +1,6 @@
-## TM Tutoring
+## Total Tutoring
 
-Hompage for TMTutoring
+Hompage for the Total Tutoring firm
 
 ## Copyright and License
 
